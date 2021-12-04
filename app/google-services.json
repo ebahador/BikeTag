@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167074792837",
+    "project_id": "assignment-1-coen-6311",
+    "storage_bucket": "assignment-1-coen-6311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167074792837:android:5123ebcec07125abbeb0ec",
+        "android_client_info": {
+          "package_name": "concordia.assignment1.biketag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167074792837-1dpqjj4safofa2ldbcmvkg6381mrdba4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk2UHw9I7JoSeK7NsZTKDd3nHxyWtrN2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167074792837-1dpqjj4safofa2ldbcmvkg6381mrdba4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
